@@ -5,6 +5,7 @@ namespace ProductService
     {
         public static void Main(string[] args)
         {
+            // This is my first change
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
